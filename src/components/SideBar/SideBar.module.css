@@ -1,0 +1,42 @@
+.root {
+  height: inherit;
+  display: flex;
+  flex-direction: row;
+  border-radius: 48px 0 0 0;
+}
+
+.container {
+  width: inherit;
+}
+
+.isOpen {
+  overflow: hidden;
+}
+
+.content {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  border-radius: 48px 0 0 0;
+  background-color: #FFFFFF;
+}
+
+.rotated {
+  position: fixed;
+  transform: rotate(-10deg) translateX(250px) translateY(30px);
+}
+
+.titleBar {
+  height: 33px;
+  width: max-content;
+  display: flex;
+  flex-direction: row;
+  color: #9f9fa0;
+  font-family: Avenir;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 5px;
+  line-height: 33px;
+  margin: 36px 43px;
+}

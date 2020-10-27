@@ -1,0 +1,28 @@
+.sideMenu {
+  width: 100vw;
+  padding-left: 27px;
+  border-radius: 48px 0 0 0;
+  background-color: #1F1B33;
+}
+
+.sideMenuTitle {
+  height: 38px;
+  width: 83px;
+  color: #FFFFFF;
+  font-family: Avenir;
+  font-size: 28px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 38px;
+  margin-top: 122px;
+  margin-left: 31px;
+  margin-bottom: 57px;
+}
+
+.divider {
+  box-sizing: border-box;
+  height: 1px;
+  width: 175.5px;
+  border: 1px solid #84818E;
+  margin: 45px 0;
+}

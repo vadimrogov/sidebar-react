@@ -1,0 +1,14 @@
+.menuBtn {
+  height: 33px;
+  width: 33px;
+  margin-right: 35px;
+  cursor: pointer;
+}
+
+.rectangle {
+  height: 4px;
+  width: 30px;
+  border-radius: 3.5px;
+  background-color: #e8e5e5;
+  margin: 5px 0;
+}

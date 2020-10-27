@@ -1,0 +1,26 @@
+.sideMenuItem {
+  height: 51px;
+  width: 175px;
+  border-radius: 15.5px;
+  display: flex;
+  align-items: center;
+  margin: 15px 0;
+  cursor: pointer;
+}
+
+.sideMenuItemText {
+  padding-left: 30px;
+  color: #FFFFFF;
+  font-family: Avenir;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.sideMenuItemTextSelected {
+  color: #FC8074;
+}
+
+.sideMenuItemSelected {
+  background-color:  #4b3140;
+}
